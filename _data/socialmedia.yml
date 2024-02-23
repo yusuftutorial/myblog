@@ -1,0 +1,49 @@
+- name: GitHub
+  url: http://github.com/yusuftutorial
+  class: icon-github
+  title: "Seluruh repository saya"
+
+- name: YouTube
+  url: http://www.youtube.com/@yusuftutorialchannel
+  class: icon-youtube
+  title: "Seluruh video saya"
+
+# - name: Twitter
+#   url: http://twitter.com/yusufturorial
+#   class: icon-twitter
+#   title: "Immer das Neuste von Phlow gibt es auf Twitter"
+
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/yusuftutorial/
+#   class: icon-cloud
+#   title: "Mixe, was sonst?"
+
+# - name: Phlow YouTube Google+
+#   url: https://plus.google.com/u/0/+yusuftutorial
+#   class: icon-googleplus
+#   title: "YouTube Google+"
+
+- name: Facebook
+  url: http://www.facebook.com/muhammadyusuf1992
+  class: icon-facebook
+  title: "Facebook saya"
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/myarachma92
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/yusuftutorial
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil
