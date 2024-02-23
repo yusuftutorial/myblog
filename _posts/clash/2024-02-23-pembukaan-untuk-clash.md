@@ -9,6 +9,7 @@ tags:
     - clash
 categories:
     - basic
+    - clash
 image:
     thumb: gallery-example-3-thumb.jpg
     title: gallery-example-3.jpg
