@@ -8,7 +8,7 @@ breadcrumb: true
 tags:
     - clash
 categories:
-    - clash
+    - basic
 image:
     thumb: gallery-example-3-thumb.jpg
     title: gallery-example-3.jpg
@@ -30,6 +30,6 @@ Dan juga beragam type tools. Mulai dari openclash, clash for android, clash for 
 Anda bisa mempelajarinya disini jika anda minat untuk bersungguh-sungguh untuk belajar dan memahami mekanisme jalan yang di lalui oleh clash.
 
 
-## Other Post Formats
+## Simak post tentang clash lainnya
 {: .t60 }
 {% include list-posts tag='clash' %}
