@@ -6,7 +6,7 @@ title:  "Cara installasi Clash"
 teaser: "Memasang dan setting dasar pada openclash di openwrt."
 breadcrumb: true
 tags:
-    - clash
+    - openclash
 categories:
     - basic
 image:
@@ -14,7 +14,6 @@ image:
     title: gallery-example-3.jpg
     caption_url: https://yusuftutorial.xyz/clash/cara-installasi-clash/
 ---
-
 Sebelum anda memulai langkah untuk menginstall openclash, alangkah baiknya anda untuk melengkapi semua keperluan dari openclash itu sendiri.
 
 Mari kita masuk ke openwrt dan menuju ke terminal emulator.
@@ -47,4 +46,4 @@ Tunggu hingga selesai, setelah beres anda tinggal reboot perangkat.
 
 ## Simak post tentang clash lainnya
 {: .t60 }
-{% include list-posts tag='clash' %}
+{% include list-posts tag='openclash' %}
