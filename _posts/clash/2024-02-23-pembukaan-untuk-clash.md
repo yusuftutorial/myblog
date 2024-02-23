@@ -23,10 +23,6 @@ Clash tercipta dari Vernesong, Dreamaco, Lhie1, dan lain nya di komunitas Github
 
 Mulai dari 2019 hingga sekarang, clash semakin maju dan berkembang yang dulu hanya bermula pada mode global saja, setelah itu menjadi sebuah mode rule dan direct, juga mode script yang sampai kini saya jalani.
 
-## Simak tutorial basic clash lainnya
-{: .t60 }
-{% include list-posts cetegory='basic' %}
-
 Namun seiring berkembang pesat, kini Clash sudah banyak type yang bisa kita jumpai. Mulai dari openwrt, android, linux, hingga ke windows.
 
 Dan juga beragam type tools. Mulai dari openclash, clash for android, clash for magisk, clash for linux, clash for windows, clash meta for magisk, clash meta openclash, dan sekarang box for magisk.
