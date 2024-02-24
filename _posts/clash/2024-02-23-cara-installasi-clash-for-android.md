@@ -6,10 +6,10 @@ title:  "Cara installasi clash for android"
 teaser: "Memasang aplikasi clash pada android."
 breadcrumb: true
 tags:
-    - clashforandoid
+    - clashforandroid
 categories:
     - clash
-    - clashforandoid
+    - clashforandroid
 image:
     thumb: gallery-example-3-thumb.jpg
     title: gallery-example-3.jpg
@@ -33,4 +33,4 @@ File `clash for android` ini bisa anda dapatkan <a class="radius button small" h
 
 ## Simak tutorial clash for android lainnya
 {: .t60 }
-{% include list-posts tag='clashforandoid' %}
+{% include list-posts tag='clashforandroid' %}
