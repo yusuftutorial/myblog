@@ -12,7 +12,7 @@ categories:
     - clashforandroid
 image:
     thumb: cara-install-cfa.png
-    title: Cara installasi clash for android
+    title: cara-install-cfa.png
     caption_url: https://yusuftutorial.xyz/clash/cara-installasi-clash-for-android/
 ---
 ### Table of Contents
