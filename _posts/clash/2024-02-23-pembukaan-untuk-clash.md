@@ -30,6 +30,6 @@ Dan juga beragam type tools. Mulai dari openclash, clash for android, clash for 
 Anda bisa mempelajarinya disini jika anda minat untuk bersungguh-sungguh untuk belajar dan memahami mekanisme jalan yang di lalui oleh clash.
 
 
-## Simak post tentang clash lainnya
+## Simak tutorial clash lainnya
 {: .t60 }
 {% include list-posts tag='clash' %}

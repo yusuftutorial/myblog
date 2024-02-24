@@ -16,6 +16,7 @@ image:
     caption_url: https://yusuftutorial.xyz/clash/cara-installasi-clash-for-android/
 ---
 ### Table of Contents
+*  Auto generated table of contents
 {:toc}
 
 Untuk menggunakan `clash` khusus untuk handphone `android` cara cukup mudah walaupun sebenarnya di 
@@ -30,6 +31,6 @@ asalkan anda selalu menyimak konten saya tentang `clash for android` di karenaka
 
 File `clash for android` ini bisa anda dapatkan <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/clash/clashforandoid/">DISINI ›</a>
 
-Untuk konfigurasi nantinya bisa anda jumpai di bawah ini:
-
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/clash/clashforandroid/">Konfigurasi Clash For Android ›</a>
+## Simak tutorial clash for android lainnya
+{: .t60 }
+{% include list-posts tag='clashforandroid' %}

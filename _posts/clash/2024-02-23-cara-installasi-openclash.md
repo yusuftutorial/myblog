@@ -45,6 +45,6 @@ Setelah itu kembali masuk ke terminal emulator dan ketikkan berikut ini.
 
 Tunggu hingga selesai, setelah beres anda tinggal reboot perangkat.
 
-## Simak post tentang clash lainnya
+## Simak tutorial openclash lainnya
 {: .t60 }
 {% include list-posts tag='openclash' %}
