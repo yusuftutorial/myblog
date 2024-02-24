@@ -10,8 +10,8 @@ tags:
 categories:
     - clash
 image:
-    thumb: gallery-example-3-thumb.jpg
-    title: gallery-example-3.jpg
+    thumb: clash.png
+    title: clash.png
     caption_url: https://yusuftutorial.xyz/clash/pembukaan-untuk-clash/
 ---
 
