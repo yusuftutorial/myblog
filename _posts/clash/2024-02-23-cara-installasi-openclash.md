@@ -8,12 +8,23 @@ breadcrumb: true
 tags:
     - openclash
 categories:
-    - basic
+    - clash
+    - openclash
 image:
     thumb: gallery-example-3-thumb.jpg
     title: gallery-example-3.jpg
     caption_url: https://yusuftutorial.xyz/clash/cara-installasi-openclash/
 ---
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
 Sebelum anda memulai langkah untuk menginstall openclash, alangkah baiknya anda untuk melengkapi semua keperluan dari openclash itu sendiri.
 
 Mari kita masuk ke openwrt dan menuju ke terminal emulator.
@@ -22,9 +33,15 @@ Mari kita masuk ke openwrt dan menuju ke terminal emulator.
 
 {% include alert terminal='opkg update && opkg install coreutils-nohup bash iptables dnsmasq-full curl ca-certificates ipset ip-full iptables-mod-tproxy iptables-mod-extra libcap libcap-bin ruby ruby-yaml kmod-tun kmod-inet-diag unzip luci-compat luci luci-base' %}
 
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
+
 ## NF Tables
 
 {% include alert terminal='opkg update && opkg install coreutils-nohup bash dnsmasq-full curl ca-certificates ipset ip-full libcap libcap-bin ruby ruby-yaml kmod-tun kmod-inet-diag unzip kmod-nft-tproxy luci-compat luci luci-base' %}
+
+<small markdown="1">[Up to table of contents](#toc)</small>
+{: .text-right }
 
 Jika sudah semua selesai atau beres tanpa ada kendala. Mari kita lanjutkan ke tahap berikutnya.
 
@@ -40,6 +57,8 @@ Setelah itu kembali masuk ke terminal emulator dan ketikkan berikut ini.
 
 Tunggu hingga selesai, setelah beres anda tinggal reboot perangkat.
 
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
 
 ## Simak post tentang clash lainnya
 {: .t60 }

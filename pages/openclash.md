@@ -1,14 +1,14 @@
 ---
 layout: page
 show_meta: false
-title: "Daftar tutorial dasar clash"
+title: "Daftar Tutorial Openclash"
 subheadline: "Sitemap Clash"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/basic/"
+permalink: "/clash/openclash/"
 ---
 <ul>
-    {% for post in site.categories.basic %}
+    {% for post in site.categories.openclash %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
