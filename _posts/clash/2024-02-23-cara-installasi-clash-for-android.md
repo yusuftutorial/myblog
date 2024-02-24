@@ -33,4 +33,4 @@ File `clash for android` ini bisa anda dapatkan <a class="radius button small" h
 
 ## Simak tutorial clash for android lainnya
 {: .t60 }
-{% include list-posts tag='clashforandroid' %}
+{% include list-posts tag='clashforandoid' %}
