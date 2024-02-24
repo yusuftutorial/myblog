@@ -1,7 +1,7 @@
 ---
 layout: page
 show_meta: false
-title: "Daftar Tutorial Openclash"
+title: "Tutorial Openclash"
 subheadline: "Sitemap Clash"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
