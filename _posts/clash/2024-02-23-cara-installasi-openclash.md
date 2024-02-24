@@ -19,14 +19,12 @@ Sebelum anda memulai langkah untuk menginstall openclash, alangkah baiknya anda 
 Mari kita masuk ke openwrt dan menuju ke terminal emulator.
 
 ## IP Tables
-~~~
-opkg update && opkg install coreutils-nohup bash iptables dnsmasq-full curl ca-certificates ipset ip-full iptables-mod-tproxy iptables-mod-extra libcap libcap-bin ruby ruby-yaml kmod-tun kmod-inet-diag unzip luci-compat luci luci-base
-~~~
+
+{% include alert terminal='opkg update && opkg install coreutils-nohup bash iptables dnsmasq-full curl ca-certificates ipset ip-full iptables-mod-tproxy iptables-mod-extra libcap libcap-bin ruby ruby-yaml kmod-tun kmod-inet-diag unzip luci-compat luci luci-base' %}
 
 ## NF Tables
-~~~
-opkg update && opkg install coreutils-nohup bash dnsmasq-full curl ca-certificates ipset ip-full libcap libcap-bin ruby ruby-yaml kmod-tun kmod-inet-diag unzip kmod-nft-tproxy luci-compat luci luci-base
-~~~
+
+{% include alert terminal='opkg update && opkg install coreutils-nohup bash dnsmasq-full curl ca-certificates ipset ip-full libcap libcap-bin ruby ruby-yaml kmod-tun kmod-inet-diag unzip kmod-nft-tproxy luci-compat luci luci-base' %}
 
 Jika sudah semua selesai atau beres tanpa ada kendala. Mari kita lanjutkan ke tahap berikutnya.
 
@@ -36,10 +34,9 @@ Kemudian taruh ke folder root pada file manager openwrt.
 
 Setelah itu kembali masuk ke terminal emulator dan ketikkan berikut ini.
 
-~~~
-cd /root
-opkg install *.ipk
-~~~
+{% include alert terminal='cd /root' %}
+
+{% include alert terminal='opkg install *.ipk' %}
 
 Tunggu hingga selesai, setelah beres anda tinggal reboot perangkat.
 
