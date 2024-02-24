@@ -1,55 +1,40 @@
-- title: Beranda
+- title: Home
   url: "/"
   side: left
 
 - title: Tutorial
   url: "/tutorial/"
   side: left
+  dropdown"
+  - title: "Clash"
+    url: "/clash/"
+  - title: "Passwall"
+    url: "/passwall/"
+  - title: "SSH"
+    url: "/ssh/"
+  - title: "OpenWRT"
+    url: "/openwrt/"
+  - title: "Mikrotik"
+    url: "/mikrotik/"
+  - title: "Router"
+    url: "/router/"
+  - title: "Modem"
+    url: "/modem/"
+  - title: "Antena"
+    url: "/antena/"
 
-- title: "Clash"
-  url: "/clash/"
+- title: Galery
+  url: "/galery/"
   side: left
   dropdown:
-  - title: "Openclash"
-    url: "/clash/openclash/"
-  - title: "Clash For Android"
-    url: "/clash/clashforandroid/"
-  - title: "Clash For Linux"
-    url: "/clash/clashforlinux/"
-  - title: "Clash For Windows"
-    url: "/clash/clashforwindows/"
-  - title: "Clash For Magisk"
-    url: "/clash/clashformagisk/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-
-- title: "OpenWRT"
-  url: "/openwrt/"
-  side: left
-  dropdown:
-  - title: "Interface"
-    url: "/openwrt/interface/"
-  - title: "Firewall"
-    url: "/openwrt/firewall/"
-  - title: "System"
-    url: "/openwrt/system/"
-  - title: "Service"
-    url: "/openwrt/service/"
-  - title: "Tools"
-    url: "/openwrt/tools/"
-  - title: "Firmware"
-    url: "/openwrt/firmware/"
-  - title: "Packages"
-    url: "/openwrt/packages/"
-
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title: "Dokument"
+    url: "/dokument/"
+  - title: "Gambar"
+    url: "/gambar/"
+  - title: "Video"
+    url: "/video/"
+  - title: "PDF"
+    url: "/pdf/"
 
 - title: Blog
   url: "/blog/"
@@ -62,6 +47,17 @@
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
+- title: "About"
+  url: "/about/"
   side: right
+  dropdown:
+  - title: "Contact"
+    url: "/contact/"
+  - title: "Toko"
+    url: "https://mycollection.shop/serbulapakku"
+  - title: "Syarat dan Ketentuan"
+    url: "/syarat-dan-ketentuan/"
+  - title: "Privacy Policy"
+    url: "/privacy-policy/"
+  - title: "Donasi"
+    url: "/donate/"
