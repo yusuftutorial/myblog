@@ -12,7 +12,7 @@ categories:
     - openclash
 image:
     thumb: cara-install-openclash.png
-    title: Cara installasi openclash
+    title: cara-install-openclash.png
     caption_url: https://yusuftutorial.xyz/clash/cara-installasi-openclash/
 ---
 ### Table of Contents
