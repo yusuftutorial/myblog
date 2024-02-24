@@ -4,7 +4,7 @@ show_meta: false
 title: "Daftar tutorial dasar clash"
 subheadline: "Sitemap Clash"
 header:
-   image_fullwidth: "indonesia.png"
+   image_fullwidth: "clash.png"
 permalink: "/clash/"
 ---
 <ul>

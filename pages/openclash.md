@@ -4,7 +4,7 @@ show_meta: false
 title: "Tutorial Openclash"
 subheadline: "Sitemap Clash"
 header:
-   image_fullwidth: "indonesia.png"
+   image_fullwidth: "clash.png"
 permalink: "/clash/openclash/"
 ---
 <ul>
