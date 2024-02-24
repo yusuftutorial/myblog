@@ -2,7 +2,7 @@
 layout: page
 sidebar: left
 subheadline: Clash
-title:  "Cara installasi Clash"
+title:  "Cara installasi openclash"
 teaser: "Memasang dan setting dasar pada openclash di openwrt."
 breadcrumb: true
 tags:
@@ -12,7 +12,7 @@ categories:
 image:
     thumb: gallery-example-3-thumb.jpg
     title: gallery-example-3.jpg
-    caption_url: https://yusuftutorial.xyz/clash/cara-installasi-clash/
+    caption_url: https://yusuftutorial.xyz/clash/cara-installasi-openclash/
 ---
 Sebelum anda memulai langkah untuk menginstall openclash, alangkah baiknya anda untuk melengkapi semua keperluan dari openclash itu sendiri.
 
