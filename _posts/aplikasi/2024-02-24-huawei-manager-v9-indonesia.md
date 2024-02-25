@@ -35,10 +35,10 @@ Fitur yang bisa anda dapatkan dalam aplikasi ini:
 
 1. Mode SMS
 1. Mode dial
-1. Mode lock Cell ID (Tergantung type modem)
-1. Mode Lock Band (agar mengunci frekuensi pada modem)
+1. Mode lock Cell ID `Tergantung type modem`
+1. Mode Lock Band `agar mengunci frekuensi pada modem`
 1. Tampilan Respondsive
-1. Bisa buat modem Hilink dan Orbit (huawei)
+1. Bisa buat modem Hilink dan Orbit `huawei`
 
 ## Pemasangan aplikasi
 
