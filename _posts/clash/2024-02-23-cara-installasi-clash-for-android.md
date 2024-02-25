@@ -10,7 +10,7 @@ tags:
 categories:
     - clash
     - clashforandroid
-header: no
+header: false
 image:
     thumb: cara-install-cfa.png
     title: cara-install-cfa.png
