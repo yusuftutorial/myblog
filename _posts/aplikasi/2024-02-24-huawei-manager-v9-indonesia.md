@@ -1,7 +1,7 @@
 ---
 layout: page
 sidebar: left
-subheadline: Clash
+subheadline: Aplikasi
 title:  "Huawei Manager V9 Indonesia"
 teaser: "Inovasi terbarukan untuk remote modem huawei."
 breadcrumb: true
@@ -10,11 +10,15 @@ tags:
 categories:
     - aplikasi
     - huaweimanager
+header: no
 image:
-    thumb: huawei-manager-v9-id.jpg
-    title: huawei-manager-v9-id.jpg
+    title: huawei-manager-v9-indonesia.jpg
+    thumb: huawei-manager-v9-indonesia.jpg
+    homepage: huawei-manager-v9-indonesia.jpg
+    caption: Huawei Manager V9 Indonesia
     caption_url: https://yusuftutorial.xyz/aplikasi/huawei-manager-v9-indonesia/
 ---
+
 ### Table of Contents
 *  Auto generated table of contents
 {:toc}
