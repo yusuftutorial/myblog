@@ -29,6 +29,8 @@ Untuk install clash windows, ada beberapa syarat yang perlu anda ketahui terlebi
 
 Jika anda sudah mengetahui persyaratan nya, sekarang anda sudah bisa melewati langkah selanjutnya dengan menekan download clash windows di bawah ini.
 
+<a href="https://shope.ee/AUWHzCfxKa" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpbULz3IUJfJ5bmJFaSCX7xGRZ-ghSiiN9rIUK8GtFT8hA09YYtqaHSFonXJEVO8yMu4tKPdnjozs2thxUOF96uBCJsrqG9-Nc23EkrztW0inoAgkyI52ZADPWR79FT4WPcMap91PiCFVgsGuKk7xBrfxBWvrC9jV_7GGtIhD_Zy5krYpyHI7iKNGClGZL/s320/no_markReactNative-snapshot-image_13.png" width="320" height="320"></a>
+
 [DOWNLAOD][1]
 
 ## Download config Clash Windows
@@ -82,6 +84,8 @@ Untuk jalur masuk internet agar CLash windows dapat berkerja bisa melalui LAN, M
 ## Jalur Inbonds
 Agar internet yang di hasilkan oleh Clash Windows bisa di bagikan ke device yang lain.
 Bagi anda pengguna windows 10 khusus nya, anda bisa membagikan nya kembali melalui jlur hotspot bawaan dari windows 10.
+
+<a href="https://shope.ee/AUWHzCfxKa" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpbULz3IUJfJ5bmJFaSCX7xGRZ-ghSiiN9rIUK8GtFT8hA09YYtqaHSFonXJEVO8yMu4tKPdnjozs2thxUOF96uBCJsrqG9-Nc23EkrztW0inoAgkyI52ZADPWR79FT4WPcMap91PiCFVgsGuKk7xBrfxBWvrC9jV_7GGtIhD_Zy5krYpyHI7iKNGClGZL/s320/no_markReactNative-snapshot-image_13.png" width="320" height="320"></a>
 
 Kini sekarang anda bisa mengggunakan script config clash windows dari Yusuf Tutorial Channel.
   
