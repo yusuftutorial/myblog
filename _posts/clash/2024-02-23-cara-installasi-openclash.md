@@ -27,7 +27,7 @@ Mari kita masuk ke openwrt dan menuju ke terminal emulator.
 
 {% include alert terminal='opkg update && opkg install coreutils-nohup bash iptables dnsmasq-full curl ca-certificates ipset ip-full iptables-mod-tproxy iptables-mod-extra libcap libcap-bin ruby ruby-yaml kmod-tun kmod-inet-diag unzip luci-compat luci luci-base' %}
 
-<a href="https://shope.ee/AUWHzCfxKa" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpbULz3IUJfJ5bmJFaSCX7xGRZ-ghSiiN9rIUK8GtFT8hA09YYtqaHSFonXJEVO8yMu4tKPdnjozs2thxUOF96uBCJsrqG9-Nc23EkrztW0inoAgkyI52ZADPWR79FT4WPcMap91PiCFVgsGuKk7xBrfxBWvrC9jV_7GGtIhD_Zy5krYpyHI7iKNGClGZL/s320/no_markReactNative-snapshot-image_13.png" width="320" height="320"></a>
+{% include iklan2.html %}
 
 ## NF Tables
 
@@ -43,7 +43,7 @@ Setelah itu kembali masuk ke terminal emulator dan ketikkan berikut ini.
 
 {% include alert terminal='cd /root' %}
 
-<a href="https://shope.ee/AUWHzCfxKa" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpbULz3IUJfJ5bmJFaSCX7xGRZ-ghSiiN9rIUK8GtFT8hA09YYtqaHSFonXJEVO8yMu4tKPdnjozs2thxUOF96uBCJsrqG9-Nc23EkrztW0inoAgkyI52ZADPWR79FT4WPcMap91PiCFVgsGuKk7xBrfxBWvrC9jV_7GGtIhD_Zy5krYpyHI7iKNGClGZL/s320/no_markReactNative-snapshot-image_13.png" width="320" height="320"></a>
+{% include iklan4.html %}
 
 {% include alert terminal='opkg install *.ipk' %}
 
