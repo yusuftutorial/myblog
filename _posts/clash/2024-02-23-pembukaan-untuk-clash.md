@@ -19,7 +19,7 @@ Sebelum anda menjelajah halaman pada bagian ini. Alangkah baiknya anda untuk men
 
 Clash adalah suatu sistem yang berbasis pada ruby untuk menjalankan nya.
 
-<a href="https://shope.ee/AUWHzCfxKa" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpbULz3IUJfJ5bmJFaSCX7xGRZ-ghSiiN9rIUK8GtFT8hA09YYtqaHSFonXJEVO8yMu4tKPdnjozs2thxUOF96uBCJsrqG9-Nc23EkrztW0inoAgkyI52ZADPWR79FT4WPcMap91PiCFVgsGuKk7xBrfxBWvrC9jV_7GGtIhD_Zy5krYpyHI7iKNGClGZL/s320/no_markReactNative-snapshot-image_13.png" width="320" height="320"></a>
+{% include iklan1.html %}
 
 Clash tercipta dari Vernesong, Dreamaco, Lhie1, dan lain nya di komunitas Github.
 
@@ -27,7 +27,7 @@ Mulai dari 2019 hingga sekarang, clash semakin maju dan berkembang yang dulu han
 
 Namun seiring berkembang pesat, kini Clash sudah banyak type yang bisa kita jumpai. Mulai dari openwrt, android, linux, hingga ke windows.
 
-<a href="https://shope.ee/AUWHzCfxKa" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpbULz3IUJfJ5bmJFaSCX7xGRZ-ghSiiN9rIUK8GtFT8hA09YYtqaHSFonXJEVO8yMu4tKPdnjozs2thxUOF96uBCJsrqG9-Nc23EkrztW0inoAgkyI52ZADPWR79FT4WPcMap91PiCFVgsGuKk7xBrfxBWvrC9jV_7GGtIhD_Zy5krYpyHI7iKNGClGZL/s320/no_markReactNative-snapshot-image_13.png" width="320" height="320"></a>
+{% include iklan3.html %}
 
 Dan juga beragam type tools. Mulai dari openclash, clash for android, clash for magisk, clash for linux, clash for windows, clash meta for magisk, clash meta openclash, dan sekarang box for magisk.
 
