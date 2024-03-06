@@ -27,6 +27,8 @@ playstore sudah tersedia lagi hanya menyediakan `clash meta for android` saja un
 
 Namun saya masih menyimpan file ini khusus untuk anda agar bisa menggunakan nya.
 
+{% include iklan1.html %}
+
 ## Download Aplikasi
 
 File ini tidak lah banyak memakan ruang penyimpanan dan penggunaan nya juga cukup simpel sekali 
